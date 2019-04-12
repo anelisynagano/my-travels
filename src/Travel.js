@@ -8,7 +8,7 @@ class Travel extends Component {
             <div>
                 <p>{destination}</p>
                 <p>{country}</p>
-                <img src= {photo} alt={destination} />
+                <img src={photo} alt={destination} />
                 <p>{distance}</p>
             </div>
         )
